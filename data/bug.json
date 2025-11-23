@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Bug 1763302557521",
+    "description": "gdgdg",
+    "severity": 0,
+    "labels": [],
+    "_id": "EoI5A",
+    "createdAt": 1763302563324,
+    "creator": {
+      "_id": "u103",
+      "fullname": "Pro pa"
+    }
+  },
+  {
+    "title": "www",
+    "description": "2323ddgdg",
+    "severity": 4,
+    "labels": [],
+    "creator": {
+      "_id": "GVP1W",
+      "createdAt": 1763302569385
+    }
+  },
+  {
+    "title": "Bug 1763302700859",
+    "description": "liadddd",
+    "severity": 4,
+    "labels": [],
+    "_id": "0EFjB",
+    "createdAt": 1763302707491,
+    "creator": {
+      "_id": "u102",
+      "fullname": "baba ba"
+    }
+  },
+  {
+    "title": "liadi",
+    "description": "omg",
+    "severity": 0,
+    "labels": [],
+    "_id": "zou7E",
+    "createdAt": 1763489916759
+  },
+  {
+    "title": "Bug 1763824079350",
+    "description": "liadddd",
+    "severity": 3,
+    "labels": [],
+    "_id": "9LXVb2",
+    "owner": {
+      "_id": "5mAVT",
+      "fullname": "ליעד"
+    }
+  },
+  {
+    "title": "Bug 1763824983124",
+    "description": "tttt",
+    "severity": 3,
+    "labels": [],
+    "_id": "wpFUkz",
+    "owner": {
+      "_id": "5mAVT",
+      "fullname": "ליעד"
+    }
+  },
+  {
+    "title": "געעגעגע",
+    "description": "",
+    "severity": 0,
+    "labels": [],
+    "_id": "L0Fp6R",
+    "owner": {
+      "_id": "5mAVT",
+      "fullname": "ליעד"
+    }
+  }
+]
