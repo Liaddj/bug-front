@@ -20,7 +20,7 @@ export function App() {
             <AppHeader loggedinUser={loggedinUser} setLoggedinUser={setLoggedinUser} />
             <main className="container">
                 <Routes>
-                    <Route path="/" element={<Home />} />
+                    <Route path="/index.html" element={<Home />} />
                     <Route path="/bug" element={<BugIndex />} />
                     <Route path="/bug/:bugId" element={<BugDetails />} />
                     <Route path="/about" element={<AboutUs />} />
